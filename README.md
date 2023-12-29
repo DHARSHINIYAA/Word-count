@@ -20,8 +20,8 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ~~~
 #Program for getting the word count from the contents of a file using command line arg
-#Developed by: GOWTHAM N
-#Register Number : 23013437
+#Developed by: DHARSHINIYAA K S
+#Register Number : 23014039
 import sys
 fp=open(sys.argv[1],'r')
 count=0
